@@ -7,3 +7,12 @@ body{
 .gametitle {
     color: red;
 }
+
+.rulesinfo {
+    color: greenyellow;
+}
+
+.linkText {
+    padding-top: 40px;
+    color: rgb(25 , 115 , 151);
+}
